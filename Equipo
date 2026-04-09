@@ -1,1 +1,15 @@
-Equipo
+
+
+Equipo de Certificación
+
+Auto-Test
+Permite ejecutar automáticamente todas las pruebas necesarias para certificar el cable según su categoría (Cat 5e, Cat 6, etc.).
+
+Verificación de PoE
+Permite comprobar si el cable transporta energía eléctrica (Power over Ethernet) y medir el voltaje disponible.
+
+Prueba DHCP/Ping
+Verifica si el dispositivo obtiene una dirección IP automáticamente y si tiene conectividad en la red.
+
+TDR (Localizador de Fallas)
+Permite identificar la ubicación exacta de una falla en el cable, indicando la distancia en metros donde ocurre el problema.
