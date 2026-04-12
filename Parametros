@@ -1,14 +1,14 @@
-Parámetros de Certificación
+parametros.md
 
-Wiremap (Mapa de Cableado): esto nos ayuda a verificar que los cables estén conectados correctamente según el estándar T568A o T568B. Puede detectar errores como pares cruzados, cables abiertos o en cortocircuito.
-La longitud del cable es importante. Se mide la distancia total del cable. El estándar dice que no debe ser mayor a 90 metros para enlaces permanentes.
+Parámetros Críticos de Certificación
+Wiremap (Mapa de cableado):
+Permite verificar la correcta conexión de los pines según las normas T568A o T568B. Detecta fallas como pares cruzados, abiertos o cortocircuitos.
 
-La pérdida de inserción, también llamada atenuación, indica cómo se debilita la señal a medida que viaja por el cable. Cuanto más larga sea la distancia, mayor será la pérdida de señal.
-El NEXT, o paradiastofonía, se refiere a la interferencia entre pares de cables dentro del mismo conductor. Esto puede afectar la calidad de la señal que se envía por el cable.
+Longitud:
+Mide la distancia total del cable. Según normativa, el enlace permanente no debe superar los 90 metros.
+Atenuación (Pérdida de inserción):
 
-Equipo de Certificación
+Indica la pérdida de señal a lo largo del cable. A mayor distancia, mayor atenuación.
+NEXT (ParadiastofoníaG):
 
-Auto-Test: este equipo permite hacer todas las pruebas que se necesitan para certificar un cable según su categoría, como Cat 5e.
-Verificación de PoE: con esta herramienta, se puede comprobar si el cable lleva energía eléctrica y medir el voltaje que hay disponible.
-Prueba DHCP/Ping: esta prueba verifica si un dispositivo puede obtener una dirección IP de manera automática y si está conectado a la red.
-TDR, que significa Localizador de Fallas: este equipo ayuda a encontrar el lugar exacto donde hay un problema en el cable, diciéndonos a qué distancia en metros se encuentra el error.
+Mide la interferencia entre pares cercanos dentro del cable. Un valor alto puede afectar la calidad de transmisión.
