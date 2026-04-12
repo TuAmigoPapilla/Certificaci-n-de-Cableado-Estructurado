@@ -1,9 +1,9 @@
 
 
-Equipo de Certificación
+Equipo Utilizado: Certificadora de Red
 
-Auto-Test
-Permite ejecutar automáticamente todas las pruebas necesarias para certificar el cable según su categoría (Cat 5e, Cat 6, etc.).
+Auto-Test:
+Ejecuta automáticamente todas las pruebas necesarias según la categoría del cable (Cat 5e, Cat 6), entregando un resultado PASS o FAIL.
 
 Verificación de PoE
 Permite comprobar si el cable transporta energía eléctrica (Power over Ethernet) y medir el voltaje disponible.
